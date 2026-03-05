@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Mediator.Abstractions</PackageId>
+    <Version>1.0.0</Version>
+    <!--<icon></icon>-->
+    <License>MIT</License>
+    <Authors>Thiago Amaral</Authors>
+    <Company>Thiago Amaral</Company>
+    <PackageDescription>Abstractions for Mediator Pattern implementations</PackageDescription>
+    <Description>Abstractions for Mediator Pattern implementations</Description>
+    <RepositoryUrl>https://github.com/thiagooamaral/Mediator.Abstractions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/thiagooamaral/Mediator.Abstractions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>Mediator;Design Pattern;Domain;DDD;</PackageTags>
+    <!--<ReleaseNotes></ReleaseNotes>-->
+    <Title>Mediator.Abstractions</Title>
+    <Summary>Abstractions for Mediator Pattern implementations</Summary>
+    
+  </PropertyGroup>
+
+</Project>
