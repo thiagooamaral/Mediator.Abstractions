@@ -1,3 +1,3 @@
 | Package | Version | Downloads |
 | ------- | ------- | --------- |
-| `Mediator.Abstractions` | [![NuGet](https://img.shields.io/nuget/v/Mediator.Abstractions.svg)](https://nuget.org/packages/Mediator.Abstractions) | [![Nuget](https://img.shields.io/nuget/dt/Mediator.Abstractions.svg)](https://nuget.org/packages/Mediator.Abstractions) |
+| `Amaral.Mediator.Abstractions` | [![NuGet](https://img.shields.io/nuget/v/Amaral.Mediator.Abstractions.svg)](https://nuget.org/packages/Amaral.Mediator.Abstractions) | [![Nuget](https://img.shields.io/nuget/dt/Amaral.Mediator.Abstractions.svg)](https://nuget.org/packages/Amaral.Mediator.Abstractions) |
